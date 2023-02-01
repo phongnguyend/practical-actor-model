@@ -1,1 +1,6 @@
-# practical-actor-model
+- [Understanding The Actor Model To Build Non-blocking, High-throughput Distributed Systems - Scaleyourapp](https://scaleyourapp.com/actor-model/)
+- [Actor-Model System with Akka.NET](https://www.zartis.com/actor-model-system-with-akka-net/)
+- [Developing APIs using Actor model in ASP.NET Core - DEV Community 👩‍💻👨‍💻](https://dev.to/samueleresca/developing-apis-using-actor-model-in-aspnet-core-2oh2)
+- [The Dapr actors building block | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/architecture/dapr-for-net-developers/actors)
+- [dotnet/orleans: Cloud Native application framework for .NET](https://github.com/dotnet/orleans)
+- [akkadotnet/akka.net: Canonical actor model implementation for .NET with local + distributed actors in C# and F#.](https://github.com/akkadotnet/akka.net)
